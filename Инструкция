@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Инструкция по входу в Coinbase Wallet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .instruction {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Инструкция по входу в Coinbase Wallet с помощью фразы восстановления</h1>
+    <div class="instruction">
+        <ol>
+            <li>Откройте приложение Coinbase Wallet на своем устройстве.</li>
+            <li>На главной странице выберите "Восстановить кошелек".</li>
+            <li>Введите свою фразу восстановления (12 или 24 слова) в соответствующее поле.</li>
+            <li>Следуйте инструкциям на экране, чтобы завершить процесс восстановления.</li>
+            <li>После успешного ввода фразы восстановления ваш кошелек будет восстановлен, и вы сможете получить доступ к своим средствам.</li>
+        </ol>
+    </div>
+</body>
+</html>
